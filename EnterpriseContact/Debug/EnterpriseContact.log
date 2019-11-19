@@ -1,0 +1,15 @@
+﻿빌드 시작: 2019-11-13 오전 11:40:30
+     1>2 노드의 "c:\Users\suj0324\documents\visual studio 2012\Projects\EnterpriseContact\EnterpriseContact\EnterpriseContact.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.0\bin\x86\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0412" /IDebug\ /nologo /fo"Debug\EnterpriseContact.res" EnterpriseContact.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\suj0324\documents\visual studio 2012\Projects\EnterpriseContact\Debug\EnterpriseContact.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"c:\users\suj0324\documents\visual studio 2012\Projects\EnterpriseContact\Debug\EnterpriseContact.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\suj0324\documents\visual studio 2012\Projects\EnterpriseContact\Debug\EnterpriseContact.lib" /MACHINE:X86 Debug\EnterpriseContact.res
+         Debug\EnterpriseContact.obj
+         Debug\EnterpriseContactDlg.obj
+         Debug\stdafx.obj
+         EnterpriseContact.vcxproj -> c:\users\suj0324\documents\visual studio 2012\Projects\EnterpriseContact\Debug\EnterpriseContact.exe
+     1>"c:\Users\suj0324\documents\visual studio 2012\Projects\EnterpriseContact\EnterpriseContact\EnterpriseContact.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:00.24

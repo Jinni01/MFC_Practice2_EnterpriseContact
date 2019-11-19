@@ -1,0 +1,25 @@
+﻿빌드 시작: 2019-11-15 오후 4:02:28
+     1>2 노드의 "C:\Users\suj0324\documents\visual studio 2012\Projects\EnterpriseContact\EnterpriseContact\EnterpriseContact.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /Od /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"x64\Debug\EnterpriseContact.pch" /Fo"x64\Debug\\" /Fd"x64\Debug\vc110.pdb" /Gd /TP /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /Od /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"x64\Debug\EnterpriseContact.pch" /Fo"x64\Debug\\" /Fd"x64\Debug\vc110.pdb" /Gd /TP /errorReport:prompt ContactAddDlg.cpp ContactViewDlg.cpp EnterpriseContact.cpp EnterpriseContactDlg.cpp
+         EnterpriseContactDlg.cpp
+         ContactViewDlg.cpp
+         ContactAddDlg.cpp
+         코드를 생성하고 있습니다...
+         건너뛰고 있습니다... (관련된 변경 내용 없음)
+         EnterpriseContact.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\suj0324\documents\visual studio 2012\Projects\EnterpriseContact\x64\Debug\EnterpriseContact.exe" /INCREMENTAL /NOLOGO libmysql.lib ws2_32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Users\suj0324\documents\visual studio 2012\Projects\EnterpriseContact\x64\Debug\EnterpriseContact.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\suj0324\documents\visual studio 2012\Projects\EnterpriseContact\x64\Debug\EnterpriseContact.lib" /MACHINE:X64 x64\Debug\EnterpriseContact.res
+         x64\Debug\ContactAddDlg.obj
+         x64\Debug\ContactViewDlg.obj
+         x64\Debug\EnterpriseContact.obj
+         x64\Debug\EnterpriseContactDlg.obj
+         x64\Debug\stdafx.obj
+         EnterpriseContact.vcxproj -> C:\Users\suj0324\documents\visual studio 2012\Projects\EnterpriseContact\x64\Debug\EnterpriseContact.exe
+     1>"C:\Users\suj0324\documents\visual studio 2012\Projects\EnterpriseContact\EnterpriseContact\EnterpriseContact.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:04.15
